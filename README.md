@@ -1,4 +1,4 @@
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250px"></a>
+<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="260px"></a>
 ### Hellooo! Welcome to my gitHub channel! 
 
 ```yaml
