@@ -1,3 +1,4 @@
+<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="290px"></a>
 ### Hellooo! Welcome to my gitHub channel! 
 
 ```yaml
@@ -8,6 +9,8 @@
 💼 Work: Lawyer and Developer Trainee;
 📧 Contact: fabiodanille@hotmail.com
 ```
+
+
 
 <div align="center">
   <a href="https://beacons.ai/FabioDanille">
