@@ -1,4 +1,3 @@
-<img align="right" a href="https://beacons.ai/FabioDanille" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="260px"></a>
 ### Hellooo! Welcome to my gitHub channel!  <img align="center" alt="Fab-CSS" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 ```yaml
@@ -13,7 +12,7 @@
 
 
 <div align="center">
-  <a href="https://beacons.ai/FabioDanille">
+  <a href="https://github.com/FabioDanille">
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/>
 </div>
