@@ -1,4 +1,4 @@
-<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="290px"></a>
+<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250px"></a>
 ### Hellooo! Welcome to my gitHub channel! 
 
 ```yaml
@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://beacons.ai/FabioDanille">
-  <img height="160em" width="350" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dracula"/>
 </div>
            
 <div align="center" style="display: inline_block"><br>
