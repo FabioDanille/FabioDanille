@@ -12,9 +12,10 @@
 
 <div align="center">
   <a href="https://beacons.ai/FabioDanille">
-  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+           
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
