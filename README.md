@@ -1,4 +1,5 @@
-### Hellooo! Welcome to my gitHub channel! <br><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="150px"></a>
+<img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="290px"></a>
+### Hellooo! Welcome to my gitHub channel! 
 
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
@@ -7,8 +8,8 @@
 📚 Studyng: "Análise e Desenvolvimento de Sistemas" at UNIAVAN;
 💼 Work: Lawyer and Developer Trainee;
 📧 Contact: fabiodanille@hotmail.com
-
 ```
+
 <div align="center">
   <a href="https://beacons.ai/FabioDanille">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
