@@ -1,5 +1,5 @@
 <img align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="260px"></a>
-### Hellooo! Welcome to my gitHub channel!
+### `Hellooo!` Welcome to my GitHub channel!
 
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
