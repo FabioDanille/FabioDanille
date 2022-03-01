@@ -4,8 +4,8 @@
 👤 Name: Fabio Leonardo Danille Correia;
 📍 Living: São Paulo - SP, Brazil;
            Camboriú - SC, Brazil;
-📚 Schooling: Bachelor in 'Law' at UNIVALI;
-               Studying 'Systems Analysis and Development' at UNIAVAN;
+📚 Schooling: Bachelor of Laws at UNIVALI;
+               Studying Systems Analysis and Development at UNIAVAN;
 💼 Work: Lawyer and Developer Trainee;
 📧 Contact: fabiodanille@hotmail.com
 
