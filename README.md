@@ -5,6 +5,7 @@
 📍 Living: São Paulo - SP, Brazil;
            Camboriú - SC, Brazil;
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
+               Postgraduate in labor and social security law at PUC-Minas;
                Studying 'Systems Analysis and Development' at UNIAVAN;
 💼 Work: Lawyer and Developer Trainee;
 📧 Contact: fabiodanille@hotmail.com
