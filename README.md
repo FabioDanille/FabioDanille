@@ -27,9 +27,10 @@
   <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fab-BOOTSTRAP" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
   <img align="center" alt="Fab-ANGULAR" height="40" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg">
   <img align="center" alt="Fab-PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fab-MD" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubvuPaQibp43Md2iW9Qihef64BRdCBpgoBg&usqp=CAU">
+  <!-- <img align="center" alt="Fab-MD" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubvuPaQibp43Md2iW9Qihef64BRdCBpgoBg&usqp=CAU"> -->
   <img align="center" alt="Fab-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
            
            
