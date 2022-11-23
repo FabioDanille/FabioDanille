@@ -2,20 +2,19 @@
 
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
-📍 Living: São Paulo - SP, Brazil;
-           Camboriú - SC, Brazil;
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
                Postgraduate in 'Labor and Social Security Law' at PUC-Minas;
                Studying 'Systems Analysis and Development' at UNIAVAN;
-💼 Work: Lawyer and Developer Trainee;
 📧 Contact: fabiodanille@hotmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
                                                         – C.S. Lewis
 ```
 
-
-
+<!-- 📍 Living: São Paulo - SP, Brazil;
+           Camboriú - SC, Brazil;
+     💼 Work: - ;
+ -->
 <div align="center">
   <a href="https://github.com/FabioDanille">
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
