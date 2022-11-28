@@ -2,9 +2,7 @@
 
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
-📚 Schooling: Bachelor of 'Laws' at UNIVALI;
-               Postgraduate in 'Labor and Social Security Law' at PUC-Minas;
-               Studying 'Systems Analysis and Development' at UNIAVAN;
+📚 Schooling: Studying 'Systems Analysis and Development' at UNIAVAN;
 📧 Contact: fabiodanille@hotmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
@@ -13,6 +11,9 @@
 
 <!-- 📍 Living: São Paulo - SP, Brazil;
            Camboriú - SC, Brazil;
+📚 Schooling: Bachelor of 'Laws' at UNIVALI;
+               Postgraduate in 'Labor and Social Security Law' at PUC-Minas;
+               Studying 'Systems Analysis and Development' at UNIAVAN;
      💼 Work: - ;
  -->
 <div align="center">
