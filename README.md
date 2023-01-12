@@ -17,11 +17,11 @@
                Studying 'Systems Analysis and Development' at UNIAVAN;
 
  -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/FabioDanille">
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
            
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,10 +30,12 @@
   <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fab-BOOTSTRAP" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
   <img align="center" alt="Fab-ANGULAR" height="40" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg">
+  
 <!--   <img align="center" alt="Fab-JEST" height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_LJzUc_cStRA9YXvsjutmnVF2knDaq9p0h_47SeNhhGn2yOpLWGyk9MjHw3Gei6aKGQ&usqp=CAU"> -->
   <img align="center" alt="Fab-PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!-- <img align="center" alt="Fab-MD" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubvuPaQibp43Md2iW9Qihef64BRdCBpgoBg&usqp=CAU"> -->
   <img align="center" alt="Fab-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Fab-UIPath" height="40" width="40" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-uipath/contentbuilder/Ui%201080%20x%201080_N4wzQly.png">
            
            
 </div>
