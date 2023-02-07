@@ -2,26 +2,22 @@
 
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
-📚 Schooling: Studying 'Systems Analysis and Development' at UNIAVAN;
+📚 Schooling: Bachelor of 'Laws' at UNIVALI;
+               Postgraduate in 'Labor and Social Security Law' at PUC-Minas;
+               Studying 'Systems Analysis and Development' at UNIAVAN;
+📍 Living: Itajaí - SC, Brazil;
 💼 Work: Intern at BRF S.A.;
 📧 Contact: fabiodanille@hotmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
                                                         – C.S. Lewis
 ```
-
-<!-- 📍 Living: São Paulo - SP, Brazil;
-           Camboriú - SC, Brazil;
-📚 Schooling: Bachelor of 'Laws' at UNIVALI;
-               Postgraduate in 'Labor and Social Security Law' at PUC-Minas;
-               Studying 'Systems Analysis and Development' at UNIAVAN;
-
- -->
-<!-- <div align="center">
+ 
+<div align="center">
   <a href="https://github.com/FabioDanille">
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
+</div>
            
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
