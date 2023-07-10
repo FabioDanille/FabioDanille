@@ -6,7 +6,7 @@
                Postgraduate in 'Labor and Social Security Law' at PUC-Minas;
                Studying 'Systems Analysis and Development' at UNIAVAN;
 📍 Living: Itajaí - SC, Brazil;
-💼 Work: Intern at BRF S.A.;
+💼 Work: Intern at BRF S.A. as RPA Developer and Business Analyst;
 📧 Contact: fabiodanille@hotmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
