@@ -1,4 +1,5 @@
-### `Hellooo!` Welcome to my GitHub channel! <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a>
+### `Hellooo!` Welcome to my GitHub channel!
+<img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a>
 
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
