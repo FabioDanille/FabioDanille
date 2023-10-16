@@ -4,7 +4,6 @@
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
-               Postgraduate in 'Labor and Social Security Law' at PUC-Minas;
                Studying 'Systems Analysis and Development' at UNIAVAN;
 📍 Living: Itajaí - SC, Brazil;
 💼 Work: Intern at BRF S.A. as RPA Developer and Business Analyst;
