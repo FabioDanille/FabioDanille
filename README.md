@@ -35,6 +35,10 @@
   
 <!--   <img align="center" alt="Fab-JEST" height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_LJzUc_cStRA9YXvsjutmnVF2knDaq9p0h_47SeNhhGn2yOpLWGyk9MjHw3Gei6aKGQ&usqp=CAU"> -->
   <img align="center" alt="Fab-csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+<!--   <img align="center" alt="Fab-ASPNET" height="40" width="50" src="https://raw.githubusercontent.com/thiagomartins367/thiagomartins367.github.io/7dbdfe9bf16a6e9534cb1654029f417ead26aaa3/public/assets/aspnet-logo.svg">   -->
+  <img align="center" alt="Fab-NETCORE" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203">  
+
+  
   <img align="center" alt="Fab-PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fab-Pandas" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
   <img align="center" alt="Fab-Selenium" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
