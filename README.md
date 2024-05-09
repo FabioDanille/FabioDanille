@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56cee8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56cee8&size=25&center=true&vCenter=true&width=1000&lines=Hellooo!+=];+Welcome+to+my+GitHub+channel!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56cee8&size=28&center=true&vCenter=true&width=1000&lines=Hellooo!+=];+Welcome+to+my+GitHub+channel!+:%29)](https://git.io/typing-svg)
 
 <!--
 ### `Hellooo!` Welcome to my GitHub channel!
@@ -79,6 +79,18 @@
  <!-- API fora do ar -->
 <!-- ![Snake animation](https://github.com/FabioDanille/FabioDanille/blob/output/github-contribution-grid-snake.svg) -->
  
+
+</div>
+  <div></div>
+  <div>
+    <p align="right" style="font-size: 45px;">
+      <b>Visitors Count</b>
+    </p>  
+    <p align="right">
+      <img align="center" src="https://profile-counter.glitch.me/{fabiodanille}/count.svg" style="width: 120px; height: auto;">
+    </p> 
+  </div>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56cee8&height=120&section=footer"/>
