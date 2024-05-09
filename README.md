@@ -60,7 +60,10 @@
   <img align="center" alt="Fab-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Fab-UIPath" height="36" width="36" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-uipath/contentbuilder/Ui%201080%20x%201080_N4wzQly.png">
 <!--   <img align="center" alt="Fab-MyAthus" height="40" width="160" src="http://myathus.com/wp-content/uploads/2023/01/salvarAtivo-1@512x0987-1024x246.png"> -->
-           
+       
+       
+       <!-- Sem todos ícones que preciso -->   
+ <!-- <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,angular,cs,net,py,selenium,mysql,sqlite,git" /><br> -->
            
 </div>
   
