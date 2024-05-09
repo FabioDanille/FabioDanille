@@ -11,7 +11,7 @@
 👤 Name: Fabio Leonardo Danille Correia;
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
                Studying 'Systems Analysis and Development' at UNIAVAN;
-📍 Living: Itajaí - SC, Brazil;
+📍 Living: Camboriú - SC, Brazil;
 💼 Work: Intern at BRF S.A. as RPA Developer and Business Analyst;
 📧 Contact: fabiodanille@hotmail.com
 
