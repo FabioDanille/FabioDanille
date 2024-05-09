@@ -1,6 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56cee8&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56cee8&size=25&center=true&vCenter=true&width=1000&lines=Hellooo!+=];+Welcome+to+my+GitHub+channel!+:%29)](https://git.io/typing-svg)
+
+<!--
 ### `Hellooo!` Welcome to my GitHub channel!
 <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35px"></a>
 
+-->
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
@@ -12,8 +18,12 @@
 “You are never too old to set another goal or to dream a new dream.” 
                                                         – C.S. Lewis
 ```
- 
+
 <div align="center">
+<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif"> -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" height="200px">
+
   <a href="https://github.com/FabioDanille">
  <!--   Como era antes
     <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
@@ -22,7 +32,9 @@
     <!-- Como coloquei pois a API está fora do ar -->
   <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/>
 </div>
-           
+
+
+
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -68,3 +80,5 @@
 <!-- ![Snake animation](https://github.com/FabioDanille/FabioDanille/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56cee8&height=120&section=footer"/>
