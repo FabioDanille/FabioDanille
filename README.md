@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56cee8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56cee8&size=28&center=true&vCenter=true&width=1000&lines=Hellooo!+=];+Welcome+to+my+GitHub+channel!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56cee8&size=28&center=true&vCenter=true&width=1000&lines=Hellooo!+=];+Welcome+to+my+GitHub+channel!+♥)](https://git.io/typing-svg)
 
 <!--
 ### `Hellooo!` Welcome to my GitHub channel!
@@ -62,7 +62,7 @@
 <!--   <img align="center" alt="Fab-MyAthus" height="40" width="160" src="http://myathus.com/wp-content/uploads/2023/01/salvarAtivo-1@512x0987-1024x246.png"> -->
        
        
-       <!-- Sem todos ícones que preciso -->   
+ <!-- Sem todos ícones que preciso -->   
  <!-- <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,angular,cs,net,py,selenium,mysql,sqlite,git" /><br> -->
            
 </div>
