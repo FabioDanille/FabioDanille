@@ -10,8 +10,8 @@
 ```yaml
 👤 Name: Fabio Leonardo Danille Correia;
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
-               Studying 'Systems Analysis and Development' at UNIAVAN;
-📍 Living: Camboriú - SC, Brazil;
+              Technologist of 'Systems Analysis and Development' at UNIAVAN;
+📍 Living: Oeiras, Lisbon, Portugal;
 📧 Contact: fabiodanille@hotmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
