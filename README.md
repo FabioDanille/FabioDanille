@@ -12,13 +12,12 @@
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
                Studying 'Systems Analysis and Development' at UNIAVAN;
 📍 Living: Camboriú - SC, Brazil;
-💼 Work: Intern at BRF S.A. as RPA Developer and Business Analyst;
 📧 Contact: fabiodanille@hotmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
                                                         – C.S. Lewis
 ```
-
+<!-- 💼 Work: Intern at BRF S.A. as RPA Developer and Business Analyst; -->
 <div align="center">
 <!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif"> -->
