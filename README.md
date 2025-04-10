@@ -12,12 +12,13 @@
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
               Technologist of 'Systems Analysis and Development' at UNIAVAN;
 📍 Living: Oeiras, Lisbon - Portugal;
+💼 Work: Business Automation Consultant/RPA Developer at Devoteam; 
 📧 Contact: fabiodanille@hotmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
                                                         – C.S. Lewis
 ```
-<!-- 💼 Work: Intern at BRF S.A. as RPA Developer and Business Analyst; -->
+
 <div align="center">
 <!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif"> -->
@@ -52,8 +53,9 @@
   
   <img align="center" alt="Fab-PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fab-Pandas" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
-  <img align="center" alt="Fab-Selenium" height="30" width="30" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png">
+  <img align="center" alt="Fab-Selenium" height="30" width="30" src="https://www.svgrepo.com/show/354321/selenium.svg">
   <img align="center" alt="Fab-UIPath" height="30" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-uipath/contentbuilder/Ui%201080%20x%201080_N4wzQly.png">
+  <img align="center" alt="Fab-PA" height="30" width="30" src="https://latestlogo.com/wp-content/uploads/2024/02/microsoft-power-automate.png">
   <img align="center" alt="Fab-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fab-SQLServer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <!-- <img align="center" alt="Fab-MD" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubvuPaQibp43Md2iW9Qihef64BRdCBpgoBg&usqp=CAU"> -->
