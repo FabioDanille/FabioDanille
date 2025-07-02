@@ -11,7 +11,7 @@
 👤 Name: Fabio Leonardo Danille Correia;
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
               Technologist of 'Systems Analysis and Development' at UNIAVAN;
-📍 Living: Oeiras, Lisbon - Portugal;
+📍 Living: Porto, Porto - Portugal;
 💼 Work: Business Automation Consultant/RPA Developer at Devoteam; 
 📧 Contact: fabiodanille@hotmail.com
 
