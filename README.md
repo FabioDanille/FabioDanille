@@ -60,7 +60,8 @@
   <img align="center" alt="Fab-SQLServer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <!-- <img align="center" alt="Fab-MD" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubvuPaQibp43Md2iW9Qihef64BRdCBpgoBg&usqp=CAU"> -->
   <img align="center" alt="Fab-GIT" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Fab-Docker" height="36" width="48" src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png">
+<!--   <img align="center" alt="Fab-Docker" height="36" width="48" src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png"> -->
+  <img align="center" alt="Fab-Docker" height="36" width="36" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9&format=png">
 <!--   <img align="center" alt="Fab-MyAthus" height="40" width="160" src="http://myathus.com/wp-content/uploads/2023/01/salvarAtivo-1@512x0987-1024x246.png"> -->
 
 
@@ -85,10 +86,18 @@
   
  <!-- API fora do ar -->
 <!-- ![Snake animation](https://github.com/FabioDanille/FabioDanille/blob/output/github-contribution-grid-snake.svg) -->
- 
+
+   <div>
+    
+<img src="https://fabiodanille.github.io/images/UiPathADPv1.png" height="300" width="300">
+<img src="https://fabiodanille.github.io/images/PL900.png" height="300" width="300">
+<img src="https://fabiodanille.github.io/images/PL500.png" height="300" width="300">
+
+  </div>
 
 </div>
-  <div></div>
+  <div>    
+  </div>
   <div>
     <p align="right" style="font-size: 45px;">
       <b>Visitors Count</b>
