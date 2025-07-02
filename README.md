@@ -89,9 +89,9 @@
 
    <div>
     
-<img src="https://fabiodanille.github.io/images/UiPathADPv1.png" height="300" width="300">
-<img src="https://fabiodanille.github.io/images/PL900.png" height="300" width="300">
-<img src="https://fabiodanille.github.io/images/PL500.png" height="300" width="300">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7334164584087339009/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPathADPv1.png" height="300" width="300"></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7297294186913918976/" target="_blank"><img src="https://fabiodanille.github.io/images/PL900.png" height="300" width="300"></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7307477620663738369/" target="_blank"><img src="https://fabiodanille.github.io/images/PL500.png" height="300" width="300"></a>
 
   </div>
 
