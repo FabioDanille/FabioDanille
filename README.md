@@ -54,6 +54,8 @@
   <img align="center" alt="Fab-PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fab-Pandas" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
   <img align="center" alt="Fab-Selenium" height="30" width="30" src="https://www.svgrepo.com/show/354321/selenium.svg">
+  <img align="center" alt="Fab-Playwright" height="30" width="30" src="https://www.svgrepo.com/show/191941/theatre-drama.svg">
+  <img align="center" alt="Fab-AirFlow" height="30" width="30" src="https://www.svgrepo.com/show/353380/airflow.svg">
   <img align="center" alt="Fab-UIPath" height="30" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,h_200,q_auto:good,w_200/v1/gcs/platform-data-uipath/contentbuilder/Ui%201080%20x%201080_N4wzQly.png">
   <img align="center" alt="Fab-PA" height="30" width="30" src="https://latestlogo.com/wp-content/uploads/2024/02/microsoft-power-automate.png">
   <img align="center" alt="Fab-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
