@@ -30,7 +30,7 @@
     <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/>
 -->
     <!-- Como coloquei pois a API está fora do ar -->
-  <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/>
+  <!--<img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
 
@@ -40,7 +40,7 @@
   <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fab-BOOTSTRAP" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
+  <img align="center" alt="Fab-BOOTSTRAP" height="30" width="40" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg">
   <img align="center" alt="Fab-ANGULAR" height="40" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg">
 
   
@@ -86,8 +86,7 @@
   <!-- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> --> 
   
   
- <!-- API fora do ar -->
-<!-- ![Snake animation](https://github.com/FabioDanille/FabioDanille/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![GitHub Snake](https://raw.githubusercontent.com/FabioDanille/FabioDanille/refs/heads/output/github-snake-dark.svg)-->
 
 <p> 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7334164584087339009/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPathADPv1.png" width="150"></a>
