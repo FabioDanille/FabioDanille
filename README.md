@@ -33,8 +33,6 @@
   <!--<img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
-
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -86,26 +84,29 @@
   <!-- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> --> 
   
   
-<!-- ![GitHub Snake](https://raw.githubusercontent.com/FabioDanille/FabioDanille/refs/heads/output/github-snake-dark.svg)-->
+  ![GitHub Snake](https://raw.githubusercontent.com/FabioDanille/FabioDanille/refs/heads/output/github-snake-dark.svg)
 
-<p> 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7334164584087339009/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPathADPv1.png" width="150"></a>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7297294186913918976/" target="_blank"><img src="https://fabiodanille.github.io/images/PL900.png" width="150"></a>
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307477620663738369/" target="_blank"><img src="https://fabiodanille.github.io/images/PL500.png" width="150"></a>
-</p>
-
+  <p> 
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7334164584087339009/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPathADPv1.png" width="150"></a>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7297294186913918976/" target="_blank"><img src="https://fabiodanille.github.io/images/PL900.png" width="150"></a>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307477620663738369/" target="_blank"><img src="https://fabiodanille.github.io/images/PL500.png" width="150"></a>
+  </p>
 </div>
-  <div>    
+
+<!-- 
+<div>    
   </div>
   <div>
     <p align="right" style="font-size: 45px;">
-      <b>Visitors Count</b>
+      <!-- <b>Visitors Count</b> 
     </p>  
     <p align="right">
-      <img align="center" src="https://profile-counter.glitch.me/{fabiodanille}/count.svg" style="width: 120px; height: auto;">
-    </p> 
+     <!--  <img align="center" src="https://profile-counter.glitch.me/{fabiodanille}/count.svg" style="width: 120px; height: auto;"> 
+    </p>
   </div>
-
 </div>
+-->
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=FabioDanille.FabioDanille)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073ff&height=120&section=footer"/>
