@@ -90,7 +90,7 @@
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7297294186913918976/" target="_blank"><img src="https://fabiodanille.github.io/images/PL900.png" width="150"></a>
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307477620663738369/" target="_blank"><img src="https://fabiodanille.github.io/images/PL500.png" width="150"></a>
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7334164584087339009/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPath-ADP.png" width="150"></a>
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7334164584087339009/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPath-SAI.png" width="150"></a>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431639162497441792/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPath-SAI.png" width="150"></a>
   </p>
 </div>
 
