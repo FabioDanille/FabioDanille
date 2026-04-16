@@ -33,23 +33,17 @@
   <!--<img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<!-- 
+<div  style="display: inline_block"><br>
   <img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fab-BOOTSTRAP" height="30" width="40" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg">
   <img align="center" alt="Fab-ANGULAR" height="40" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg">
-
-  
-  
-<!--   <img align="center" alt="Fab-JEST" height="40" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_LJzUc_cStRA9YXvsjutmnVF2knDaq9p0h_47SeNhhGn2yOpLWGyk9MjHw3Gei6aKGQ&usqp=CAU"> -->
   <img align="center" alt="Fab-csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-<!--   <img align="center" alt="Fab-ASPNET" height="40" width="50" src="https://raw.githubusercontent.com/thiagomartins367/thiagomartins367.github.io/7dbdfe9bf16a6e9534cb1654029f417ead26aaa3/public/assets/aspnet-logo.svg">   -->
-  <img align="center" alt="Fab-NETCORE" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203">  
-
-  
-  <img align="center" alt="Fab-PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fab-NETCORE" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203">
+  img align="center" alt="Fab-PY" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fab-Pandas" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
   <img align="center" alt="Fab-Selenium" height="30" width="30" src="https://www.svgrepo.com/show/354321/selenium.svg">
   <img align="center" alt="Fab-Playwright" height="30" width="30" src="https://www.svgrepo.com/show/191941/theatre-drama.svg">
@@ -58,20 +52,13 @@
   <img align="center" alt="Fab-PA" height="30" width="30" src="https://latestlogo.com/wp-content/uploads/2024/02/microsoft-power-automate.png">
   <img align="center" alt="Fab-MYSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Fab-SQLServer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <!-- <img align="center" alt="Fab-MD" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubvuPaQibp43Md2iW9Qihef64BRdCBpgoBg&usqp=CAU"> -->
   <img align="center" alt="Fab-GIT" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<!--   <img align="center" alt="Fab-Docker" height="36" width="48" src="https://static-00.iconduck.com/assets.00/docker-icon-1024x739-rivf80b4.png"> -->
-  <img align="center" alt="Fab-Docker" height="36" width="36" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9&format=png">
-<!--   <img align="center" alt="Fab-MyAthus" height="40" width="160" src="http://myathus.com/wp-content/uploads/2023/01/salvarAtivo-1@512x0987-1024x246.png"> -->
+  <img align="center" alt="Fab-Docker" height="36" width="36" src="https://img.icons8.com/?size=256&id=cdYUlRaag9G9&format=png"> 
+</div> -->
 
-
-       
-       
- <!-- Sem todos ícones que preciso -->   
  <!-- <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,angular,cs,net,py,selenium,mysql,sqlite,git" /><br> -->
-           
-</div>
-  
+
+
   ##
  
 <div align="center"> 
