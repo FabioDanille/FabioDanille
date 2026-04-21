@@ -12,7 +12,7 @@
 📚 Schooling: Bachelor of 'Laws' at UNIVALI;
               Technologist of 'Systems Analysis and Development' at UNIAVAN;
 📍 Living: Porto, Porto - Portugal;
-💼 Work: Senior Business Automation Consultant/RPA Developer at @Devoteam; 
+💼 Work: Senior RPA Developer/Business Automation Consultant at @Devoteam; 
 📧 Contact: fabiodanille@hotmail.com
 
 “You are never too old to set another goal or to dream a new dream.” 
@@ -20,16 +20,16 @@
 ```
 
 <div align="center">
-<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif"> -->
-  <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" height="200px">
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif"> -->
+<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif"> -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" height="200px">
 
-  <a href="https://github.com/FabioDanille"> -->
+  <a href="https://github.com/FabioDanille">
  <!--   Como era antes
     <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api?username=FabioDanille&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
     <img height="160em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/>
 -->
-    <!-- Como coloquei pois a API está fora do ar -->
+  <!-- Como coloquei pois a API está fora do ar -->
   <!--<img height="200em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioDanille&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
