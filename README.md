@@ -78,7 +78,7 @@
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7307477620663738369/" target="_blank"><img src="https://fabiodanille.github.io/images/PL500.png" width="150"></a>
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7334164584087339009/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPath-ADP.png" width="150"></a>
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431639162497441792/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPath-SAI.png" width="150"></a>
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431639162497441792/" target="_blank"><img src="https://fabiodanille.github.io/images/UiPath-AAA.png" width="150"></a>
+    <a href="https://www.linkedin.com/posts/fabiodanille_uipath-automation-agenticautomation-activity-7453378590521434112-sWE7?utm_source=share&utm_medium=member_desktop&rcm=ACoAADk2ncIBOHowx94YcYzZ4ukfS5n32Oija2A" target="_blank"><img src="https://fabiodanille.github.io/images/UiPath-AAA.png" width="150"></a>
   </p>
 </div>
 
